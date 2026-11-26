@@ -1,0 +1,2 @@
+{ "name": "Painel da barbearia", "short_name": "Painel", "start_url": "./painel.html", "display": "standalone", "background_color": "#111214", "theme_color": "#111214", "lang": "pt-BR",
+  "icons": [{ "src": "img/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }] }

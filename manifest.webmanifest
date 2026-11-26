@@ -1,0 +1,2 @@
+{ "name": "Agendar horário", "short_name": "Agendar", "start_url": "./", "display": "standalone", "background_color": "#111214", "theme_color": "#111214", "lang": "pt-BR",
+  "icons": [{ "src": "img/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }] }
